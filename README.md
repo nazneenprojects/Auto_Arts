@@ -1,2 +1,2 @@
 # Auto_Arts
-Generative Arts with #React, #JS, #p5 
+## Generative Arts with #React, #react-generative-tools, #JS, #p5 
